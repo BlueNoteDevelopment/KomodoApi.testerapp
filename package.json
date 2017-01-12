@@ -1,0 +1,38 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "testing tools to interact with api",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tester"
+  ],
+  "author": "A. Mitchell",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.6.0",
+    "angular-ui-router": "~0.3.2",
+    "angular-messages": "~1.6.0",
+    "ngstorage": "~0.3.11"
+  },
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "gulp-uglify": "~2.0.0",
+    "gulp-concat": "~2.6.1",
+    "jshint": "~2.9.4",
+    "gulp-jshint": "~2.0.4",
+    "jshint-stylish": "~2.2.1",
+    "gulp-browserify": "~0.5.1",
+    "vinyl-source-stream": "~1.1.0",
+    "vinyl-buffer": "~1.0.0",
+    "globby": "~6.1.0",
+    "through2": "~2.0.3",
+    "gulp-util": "~3.0.7",
+    "gulp-sourcemaps": "~1.9.1",
+    "reactify": "~1.1.1",
+    "browserify": "~13.1.1",
+    "gulp-rename": "~1.2.2"
+  }
+}
